@@ -1,0 +1,10 @@
+# Ismeretlen parancs és hibás paraméterszám
+GT4500
+TORPEDO,ALL
+
+# Hajó inicializálása után hibás TORPEDO-paraméterek
+GT4500,1,0,1,0
+TORPEDO
+TORPEDO,WHAT
+GT4500,1,0
+EXIT
